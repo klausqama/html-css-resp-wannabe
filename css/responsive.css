@@ -2,6 +2,9 @@
     .container{
         max-width: 768px;
     }
+    .lessons .col {
+        width: 100%;
+    }
 }
 
 @media (max-width:480px) {
@@ -17,6 +20,8 @@
     .why-us{
         background-color: black;
     }
-
+    .lessons .col {
+        width: 100%;
+    }
 }
 
