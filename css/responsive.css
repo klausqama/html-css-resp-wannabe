@@ -1,0 +1,22 @@
+@media (max-width:768px) {
+    .container{
+        max-width: 768px;
+    }
+}
+
+@media (max-width:480px) {
+    section{
+        display: flex;
+        flex-wrap: wrap;
+    }
+     .row{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .why-us{
+        background-color: black;
+    }
+
+}
+
